@@ -41,6 +41,7 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **UP_COUNTER**
 **PROGRAM**
+
 <img width="417" height="275" alt="Screenshot 2025-12-17 201259" src="https://github.com/user-attachments/assets/31ca0482-d208-484f-b9f2-2eee8bb68e27" />
 
 ~~~
@@ -49,12 +50,18 @@ RegisterNumber: 25010044
 ~~~
 
 **RTL LOGIC UP COUNTER**
+
+
 <img width="753" height="256" alt="Screenshot 2025-12-17 201317" src="https://github.com/user-attachments/assets/aea0f575-9ce2-486c-914c-d7fd8bec70d3" />
 
 **TIMING DIAGRAM FOR IP COUNTER**
+
+
 <img width="1918" height="357" alt="Screenshot 2025-12-17 201703" src="https://github.com/user-attachments/assets/3a286f15-9161-4b44-83dd-4e4a0624f897" />
 
 **TRUTH TABLE**
+
+
 <img width="618" height="811" alt="image" src="https://github.com/user-attachments/assets/5b9c2700-bd83-432b-8b80-172c3ac3f5a3" />
 
 
@@ -63,6 +70,8 @@ Hence a 4 bit synchronous up counter is implemented correctly
 
 **DOWN_COUNTER**
 **PROGRAM**
+
+
 <img width="508" height="264" alt="Screenshot 2025-12-17 201945" src="https://github.com/user-attachments/assets/361ba09f-720a-40c3-aa43-8be87018a7ca" />
 <img width="487" height="254" alt="Screenshot 2025-12-17 203158" src="https://github.com/user-attachments/assets/6a2db5f3-f0c2-4e8d-9dc8-56cdbe6ee844" />
 
@@ -72,12 +81,18 @@ RegisterNumber: 25010044
 ~~~
 
 **RTL LOGIC UP COUNTER**
+
+
 <img width="631" height="257" alt="Screenshot 2025-12-17 202038" src="https://github.com/user-attachments/assets/aee7996d-5f36-4eaa-9635-0a32bcf6454f" />
 
 **TIMING DIAGRAM FOR IP COUNTER**
+
+
 <img width="1919" height="604" alt="Screenshot 2025-12-17 202259" src="https://github.com/user-attachments/assets/622125d9-e893-4a81-9193-ea364de12a94" />
 
 **TRUTH TABLE**
+
+
 <img width="707" height="710" alt="image" src="https://github.com/user-attachments/assets/20c4117e-0754-4067-9b14-aacdd67b39a7" />
 
 **RESULTS**
